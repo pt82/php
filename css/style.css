@@ -1,0 +1,41 @@
+.my-custom-scrollbar {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    overflow-x: auto;
+    cursor: all-scroll;
+    }
+    .bigin{
+    width: 100%;
+    color: azure;
+}
+ .btnfunc{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.form-control {
+    width: 100% !important;  
+    
+}
+   
+.fix__th {
+  position: sticky;
+  top: 0;
+  background-color: rgb(173, 226, 173);
+  font-size: 15px;
+}
+.name__th{
+    width:60%;
+}
+.id__th{
+    width:15%;
+}
+
+img {   
+    width: 150px;
+    height: 150px;
+    display: inline;
+    margin: 5px;
+    border-radius: 5px;
+  }
+    
